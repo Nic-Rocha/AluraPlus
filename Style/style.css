@@ -5,7 +5,6 @@
    --cor-background: #00030C;
    --font-principal: 'Inter';
    --botao-azul-efeito: #4b9afa;
-   --botao-tranparente-efeito:#121729;
    --botao-transparente-texto-efeito: #80b4f4;
    --botao-azul-texto-efeito:#222b4c; 
    
@@ -111,6 +110,5 @@
    background-color: var(--botao-azul-efeito);
    color:var(--botao-azul-texto-efeito);
 }.container-botão-2:hover {
-   background-color: var(--botao-tranparente-efeito);
    color: var(--botao-texto-efeito);
 }
